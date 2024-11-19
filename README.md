@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/aditya20041979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya20041979" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jaiadithya2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai adithya" height="30" width="40" /></a>
-<a href="https://hashnode.com/jaiadithya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jaiadithya" height="30" width="40" /></a>
+<a href="https://hashnode.com/@jaiadithya2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jaiadithya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
