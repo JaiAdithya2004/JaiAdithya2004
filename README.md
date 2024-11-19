@@ -3,12 +3,16 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiadithya2004&label=Profile%20views&color=0e75b6&style=flat" alt="jaiadithya2004" /> </p>
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" />
+<br>
 
 - 🌱 I’m currently learning **Machine Learning, Data Analytics**
 
 - 💬 Ask me about **Python, Analytics**
 
 - 📫 How to reach me **jaiaditya20042004@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
