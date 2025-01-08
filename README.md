@@ -29,6 +29,7 @@
 - [Unveiling the Future: AI Innovations Beyond Genetic Algorithms](https://arka1979.hashnode.dev/unveiling-the-future-ai-innovations-beyond-genetic-algorithms)
 - [What is SDLC? How does it Work?](https://arka1979.hashnode.dev/what-is-sdlc-how-does-it-work)
 - [What Does Data Analyst Do?](https://arka1979.hashnode.dev/what-does-data-analyst-do)
+- [Agentic AI: The Future of Autonomous Intelligence](https://hashnode.com/post/cm5ncdyfg000709mjauhzc59y)
 
 <!-- BLOG-POST-LIST:END -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiadithya2004&show_icons=true&locale=en&layout=compact" alt="jaiadithya2004" /></p>
