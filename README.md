@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" />
 <br>
 
-- 🌱 I’m currently learning **Machine Learning, Data Analytics**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **Python, Analytics**
 
